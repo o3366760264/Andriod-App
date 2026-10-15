@@ -1,0 +1,7 @@
+{
+  "name": "Daily Solar Rates",
+  "description": "Daily solar panel rates per watt, market trends with interactive Recharts line charts, inverter & battery prices, and system calculator for Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
